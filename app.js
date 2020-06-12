@@ -3,4 +3,4 @@
  * Author: Anzi Sharma <ziashv@outlook.com>
  */
 
-console.log("This is a app.js file.");
+console.log("This is an app.js file.");
